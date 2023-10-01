@@ -1,0 +1,244 @@
+Label Combination,RFMID
+"('ODC', 'TSLN')",83
+"('MH', 'ODC')",77
+"('MH', 'TSLN')",76
+"('DR', 'ODC')",72
+"('DR', 'LS')",58
+"('DR', 'TSLN')",53
+"('ARMD', 'TSLN')",41
+"('ARMD', 'MYA')",40
+"('DR', 'MH')",37
+"('MYA', 'ODC')",35
+"('DN', 'TSLN')",24
+"('DN', 'ODC')",23
+"('MH', 'ODC', 'TSLN')",23
+"('ODP', 'TSLN')",20
+"('BRVO', 'ODC')",18
+"('MH', 'MYA')",18
+"('DR', 'ODP')",18
+"('ARMD', 'ODC')",14
+"('DN', 'MH')",12
+"('DR', 'RT')",10
+"('DR', 'LS', 'ODC')",10
+"('LS', 'ODC')",10
+"('LS', 'ODP')",9
+"('DN', 'ODP')",9
+"('ARMD', 'MYA', 'ODC')",8
+"('BRVO', 'TSLN')",8
+"('ARMD', 'MH')",7
+"('LS', 'TSLN')",7
+"('MH', 'ODP')",7
+"('CRS', 'ODC')",7
+"('ARMD', 'DN')",6
+"('DR', 'MYA')",6
+"('AH', 'DR')",6
+"('MYA', 'ODP')",6
+"('DR', 'ODC', 'TSLN')",6
+"('BRVO', 'MH')",6
+"('ODC', 'ST')",6
+"('ODC', 'RPEC')",5
+"('CRS', 'ODE')",5
+"('MH', 'MS')",5
+"('DR', 'LS', 'ODP')",5
+"('MH', 'MYA', 'ODC')",5
+"('EDN', 'TSLN')",5
+"('DR', 'LS', 'TSLN')",5
+"('LS', 'RT')",4
+"('ODC', 'ODP')",4
+"('AH', 'ODC')",4
+"('EDN', 'ODC')",4
+"('DR', 'LS', 'RT')",4
+"('DN', 'ODC', 'TSLN')",4
+"('MHL', 'TSLN')",4
+"('DN', 'RPEC')",4
+"('MYA', 'TD')",4
+"('DN', 'MHL')",3
+"('CF', 'CRS')",3
+"('MHL', 'ODC')",3
+"('ARMD', 'MS')",3
+"('AH', 'ARMD')",3
+"('DN', 'MYA')",3
+"('DR', 'EDN')",3
+"('ARMD', 'EDN')",3
+"('EDN', 'MH')",3
+"('DN', 'ODP', 'TSLN')",3
+"('AION', 'DR')",3
+"('ARMD', 'ODC', 'TSLN')",3
+"('DN', 'LS')",3
+"('CRS', 'MH')",3
+"('ARMD', 'DN', 'TSLN')",3
+"('BRVO', 'DR')",3
+"('BRVO', 'MH', 'ODC')",3
+"('DN', 'DR')",3
+"('BRVO', 'ST')",3
+"('DR', 'MH', 'ODC')",3
+"('MS', 'TSLN')",3
+"('MS', 'ODC')",3
+"('MH', 'RT')",3
+"('BRVO', 'LS')",2
+"('ODP', 'RPEC')",2
+"('ERM', 'TSLN')",2
+"('BRVO', 'MYA')",2
+"('CME', 'ODP')",2
+"('DR', 'MH', 'TSLN')",2
+"('DN', 'MYA', 'ODP')",2
+"('CME', 'RP')",2
+"('ODP', 'RP')",2
+"('CME', 'ODP', 'RP')",2
+"('EDN', 'MYA')",2
+"('CRS', 'ODP')",2
+"('CF', 'ODP')",2
+"('ODC', 'ODP', 'TSLN')",2
+"('CRVO', 'ODP')",2
+"('DN', 'LS', 'ODP')",2
+"('DR', 'TV')",2
+"('LS', 'ODP', 'TSLN')",2
+"('CSR', 'ODC')",2
+"('DR', 'ERM')",2
+"('ERM', 'LS')",2
+"('DN', 'ODC', 'RPEC')",2
+"('ARMD', 'TD')",2
+"('DR', 'MYA', 'ODC')",2
+"('ODC', 'RS')",2
+"('CF', 'ODE')",2
+"('BRVO', 'ODC', 'ST')",2
+"('CWS', 'ODP')",2
+"('DR', 'ODP', 'TSLN')",2
+"('CSR', 'TV')",2
+"('ARMD', 'MH', 'MYA')",2
+"('AION', 'TSLN')",2
+"('ODE', 'TV')",2
+"('ARMD', 'MH', 'TSLN')",2
+"('ERM', 'ODP')",2
+"('ODP', 'TV')",2
+"('DN', 'TV')",1
+"('DN', 'MS')",1
+"('DN', 'ERM')",1
+"('BRVO', 'CL')",1
+"('CRS', 'EDN')",1
+"('ODE', 'RS')",1
+"('RS', 'VS')",1
+"('ODE', 'VS')",1
+"('BRVO', 'MH', 'TSLN')",1
+"('ODE', 'RS', 'VS')",1
+"('MH', 'ODP', 'TSLN')",1
+"('BRVO', 'EDN')",1
+"('BRVO', 'CRS')",1
+"('BRVO', 'EDN', 'ODC')",1
+"('BRVO', 'ODP')",1
+"('AION', 'TV')",1
+"('ODP', 'PRH')",1
+"('ERM', 'MHL')",1
+"('AH', 'DR', 'LS')",1
+"('CSR', 'ODPM')",1
+"('CF', 'CRS', 'ODE')",1
+"('BRVO', 'VS')",1
+"('BRVO', 'DR', 'TSLN')",1
+"('EDN', 'MH', 'TSLN')",1
+"('DN', 'MH', 'ODC')",1
+"('AH', 'LS')",1
+"('LS', 'ST')",1
+"('CRS', 'MYA', 'ODC')",1
+"('BRVO', 'LS', 'ST')",1
+"('ARMD', 'EDN', 'MYA')",1
+"('DR', 'ST')",1
+"('DR', 'ODC', 'ST')",1
+"('DR', 'ODC', 'ODP')",1
+"('ERM', 'ODE')",1
+"('ODE', 'TSLN')",1
+"('ARMD', 'EDN', 'TSLN')",1
+"('CRS', 'MYA')",1
+"('ERM', 'ODC')",1
+"('CL', 'TSLN')",1
+"('LS', 'MHL')",1
+"('LS', 'MHL', 'TSLN')",1
+"('ODC', 'PRH')",1
+"('BRVO', 'ODC', 'TSLN')",1
+"('EDN', 'MYA', 'ODC')",1
+"('MH', 'MS', 'ODC')",1
+"('DR', 'LS', 'ODP', 'TSLN')",1
+"('TD', 'TSLN')",1
+"('CSR', 'ODE')",1
+"('CME', 'ODE')",1
+"('DR', 'MH', 'ODP')",1
+"('DN', 'ST')",1
+"('DN', 'ODC', 'ST')",1
+"('LS', 'PRH')",1
+"('LS', 'ODP', 'PRH')",1
+"('CB', 'ODC')",1
+"('MH', 'MHL', 'ODC')",1
+"('EDN', 'MCA')",1
+"('MH', 'MHL')",1
+"('CWS', 'DN', 'ODC')",1
+"('MS', 'ODE')",1
+"('ARMD', 'MH', 'ODC')",1
+"('ARMD', 'MH', 'ODC', 'TSLN')",1
+"('ERM', 'TV')",1
+"('ERM', 'ODP', 'TV')",1
+"('AH', 'TSLN')",1
+"('AH', 'ARMD', 'ODC')",1
+"('AH', 'ARMD', 'TSLN')",1
+"('AH', 'ODC', 'TSLN')",1
+"('AH', 'ARMD', 'ODC', 'TSLN')",1
+"('AION', 'ARMD')",1
+"('DN', 'MH', 'TSLN')",1
+"('ARMD', 'BRVO')",1
+"('ARMD', 'BRVO', 'MYA')",1
+"('ARMD', 'ODP')",1
+"('ERM', 'TD')",1
+"('CWS', 'ODC')",1
+"('DN', 'LS', 'ODP', 'TSLN')",1
+"('CWS', 'DN')",1
+"('LS', 'TV')",1
+"('DR', 'LS', 'TV')",1
+"('EDN', 'ODP')",1
+"('EDN', 'ODP', 'TSLN')",1
+"('MS', 'ODP')",1
+"('DR', 'ERM', 'LS')",1
+"('CRVO', 'DR')",1
+"('CRVO', 'MH')",1
+"('CRVO', 'DR', 'MH')",1
+"('EDN', 'MS')",1
+"('MS', 'ODC', 'TSLN')",1
+"('ARMD', 'MYA', 'TD')",1
+"('RT', 'TSLN')",1
+"('MH', 'MS', 'TSLN')",1
+"('DN', 'DR', 'MH')",1
+"('ARMD', 'MYA', 'ODP')",1
+"('MYA', 'PRH')",1
+"('CME', 'ODC')",1
+"('CRAO', 'TSLN')",1
+"('EDN', 'MCA', 'ODC', 'TSLN')",1
+"('DR', 'EDN', 'MCA', 'ODC', 'TSLN')",1
+"('CRS', 'MH', 'ODC')",1
+"('CSR', 'RS')",1
+"('CB', 'ODE')",1
+"('BRVO', 'DN')",1
+"('CSR', 'ODP')",1
+"('CSR', 'ODP', 'TV')",1
+"('CWS', 'ODE')",1
+"('BRVO', 'MH', 'MYA')",1
+"('BRVO', 'MYA', 'ODC')",1
+"('BRVO', 'MH', 'MYA', 'ODC')",1
+"('DN', 'MHL', 'TSLN')",1
+"('AH', 'MH')",1
+"('DN', 'LS', 'TSLN')",1
+"('DR', 'MCA', 'ODC', 'TSLN')",1
+"('DR', 'EDN', 'ODC', 'TSLN')",1
+"('DR', 'EDN', 'MCA', 'TSLN')",1
+"('DR', 'EDN', 'ODC')",1
+"('LS', 'MYA')",1
+"('LS', 'MYA', 'ODP')",1
+"('DR', 'MCA')",1
+"('MCA', 'ODC')",1
+"('MCA', 'TSLN')",1
+"('DR', 'EDN', 'MCA')",1
+"('DR', 'EDN', 'TSLN')",1
+"('DR', 'EDN', 'MCA', 'ODC')",1
+"('DR', 'MCA', 'ODC')",1
+"('DR', 'MCA', 'TSLN')",1
+"('EDN', 'MCA', 'ODC')",1
+"('EDN', 'MCA', 'TSLN')",1
+"('EDN', 'ODC', 'TSLN')",1
+"('MCA', 'ODC', 'TSLN')",1
+"('ERM', 'ODE', 'TSLN')",1

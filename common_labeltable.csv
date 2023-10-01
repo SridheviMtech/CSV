@@ -1,0 +1,44 @@
+Label Combination,RFMID,RFMID2
+"('ODC', 'TSLN')",83,4
+"('MH', 'ODC')",77,4
+"('MH', 'TSLN')",76,3
+"('ARMD', 'TSLN')",41,1
+"('ARMD', 'MYA')",40,1
+"('MYA', 'ODC')",35,9
+"('MH', 'ODC', 'TSLN')",23,1
+"('MH', 'MYA')",18,3
+"('ARMD', 'ODC')",14,1
+"('CRS', 'ODC')",7,1
+"('CRS', 'ODE')",5,2
+"('MH', 'MS')",5,3
+"('MH', 'MYA', 'ODC')",5,2
+"('EDN', 'TSLN')",5,1
+"('LS', 'RT')",4,1
+"('MHL', 'TSLN')",4,1
+"('MYA', 'TD')",4,1
+"('CF', 'CRS')",3,5
+"('ARMD', 'MS')",3,1
+"('EDN', 'MH')",3,3
+"('CRS', 'MH')",3,1
+"('MS', 'TSLN')",3,4
+"('MS', 'ODC')",3,1
+"('EDN', 'MYA')",2,1
+"('CRS', 'ODP')",2,1
+"('CSR', 'ODC')",2,1
+"('CF', 'ODE')",2,1
+"('ODE', 'TV')",2,2
+"('ERM', 'ODP')",2,1
+"('ODP', 'TV')",2,3
+"('BRVO', 'EDN')",1,1
+"('CF', 'CRS', 'ODE')",1,1
+"('LS', 'ST')",1,1
+"('ODE', 'TSLN')",1,1
+"('CRS', 'MYA')",1,1
+"('TD', 'TSLN')",1,3
+"('EDN', 'MCA')",1,3
+"('MH', 'MHL')",1,1
+"('MS', 'ODP')",1,1
+"('CRVO', 'MH')",1,1
+"('EDN', 'MS')",1,1
+"('MH', 'MS', 'TSLN')",1,1
+"('CWS', 'ODE')",1,1
